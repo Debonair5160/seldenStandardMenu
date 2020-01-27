@@ -1,0 +1,43 @@
+.container {
+	font-family:serif; font-size:10px;
+}
+#farLeft {
+	background-color: #333; color: #fff;
+	position: relative;
+}
+h1 {
+	font-size: 22px;
+	margin-bottom: 50px;
+	font-style: italic;
+}
+h3 {
+	border-bottom: 1px solid black;
+	padding: 0px 0px 4px;
+}
+h4 {
+	font-size: 14px;
+    font-style: italic;
+    margin-top: 50px;
+}
+h5 {
+	font-size: 12px;
+	margin:0px 0px 4px;
+	border-bottom: 1px dotted grey;
+}
+a:hover,a {color:#fff; font-size:10;
+	font-family: sans-serif;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    letter-spacing: 1px;
+}
+ul {list-style-type: none;
+    padding-inline-start: 0px;
+}
+.floatR {float:right;}
+.seldenstandard {position: absolute; bottom: 30px; margin:auto; left:0; right:0;}
+/*#farLeft h1{}*/
+.Farms {border: 1px solid black; text-align: center; padding-top: 1rem; margin-bottom: 2em;}
+.Farms h4 {margin-top: 0px; font-weight: bold;}
+#smaller {margin-left: 20px; margin-right: 20px;}
